@@ -50,10 +50,10 @@ This project provides insights into:
 
 ---
 
-## 📸 Dashboard Preview
-![Hospital Dashboard](hospital_dashboard.png)
+## 🖼️ Dashboard Preview
 
----
+![Hospital Emergency Dashboard](hospital_dashboard.png)
+
 
 ## 🚀 How to Use
 1. Download the `.xlsx` file from this repository.  
@@ -73,7 +73,7 @@ This project provides insights into:
 
 ## 👨‍💻 Author
 **Sahanwaj Khan**  
-📧 [your-email@example.com]  
+📧 [mskhan6812@gmail.com]  
 💼 Data Analytics | Dashboard Design | Excel | Power BI  
 
 ---
