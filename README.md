@@ -1,86 +1,72 @@
-# 🏥 Hospital Emergency Room Data Analysis Dashboard
+🏥 Hospital Emergency Dashboard
+💡 Project Overview
 
-This project presents an **interactive Hospital Emergency Room Analysis Dashboard** built using **Microsoft Excel**.  
-It helps hospital management to monitor patient flow, analyze performance, and make data-driven decisions for better emergency care services.
+This project presents an interactive Excel dashboard that analyzes Hospital Emergency Room (ER) patient data.
+The dashboard provides insights into patient admissions, waiting times, referrals, and demographic distributions to help hospital administrators improve emergency response efficiency.
 
----
+🎯 Objectives
 
-## 📊 Objective
-The main goal of this dashboard is to analyze **emergency room patient data** to enhance operational efficiency and service quality.  
-This project provides insights into:
-- Patient admission trends  
-- Gender and age distribution  
-- Timeliness of emergency responses  
-- Department-wise referrals  
+Understand the admission trends of emergency patients.
 
----
+Analyze patient demographics such as age and gender.
 
-## ⚙️ Key Performance Indicators (KPIs)
+Evaluate timeliness of emergency response.
 
-| KPI | Description |
-|-----|--------------|
-| **Total Patients** | Total number of patients who visited the emergency department. |
-| **Admitted Patients (%)** | Percentage of patients admitted compared to total visitors. |
-| **Seen Within 30 Minutes (%)** | Measures how quickly patients received initial attention. |
-| **Gender Ratio (M/F)** | Comparison between male and female patient visits. |
-| **Average Age** | Average age of patients arriving at the emergency room. |
-| **Top Referred Department** | Department receiving the highest number of emergency cases. |
+Identify referring departments with the highest emergency cases.
 
----
+🧠 Key Performance Indicators (KPIs)
+KPI Name	Description	Insight
+Admission Rate	% of patients admitted vs. not admitted	Reflects hospital capacity and ER workload.
+Gender Ratio	Male vs. Female patient distribution	Shows gender-based emergency case trends.
+Age Group Distribution	Categorized patient age ranges	Identifies the most vulnerable age groups.
+Timeliness	% of patients seen within 30 minutes	Indicates response efficiency of the ER team.
+Department Referrals	Top departments referring patients	Helps optimize resources for high-demand areas.
+📈 Dashboard Features
 
-## 🧠 Key Insights
-- Clear understanding of **patient admission rates** and **hospital load**.  
-- Revealed **age and gender-based patterns** in emergency visits.  
-- Identified **response efficiency** using timeliness KPIs.  
-- Highlighted **top-referred departments**, enabling better resource planning.  
+📊 Interactive charts to visualize key hospital metrics.
 
----
+🔍 Dynamic slicers for filtering by gender, department, or admission status.
 
-## 🛠 Tools Used
-- **Microsoft Excel** – For data cleaning, pivot tables, charts, and dashboard design  
-- **Data Analysis Functions** – SUMIFS, COUNTIFS, AVERAGEIFS, Conditional Formatting, etc.  
-- **Visualization Elements** – Slicers, Charts, KPI Cards  
+🎯 KPIs cards summarizing key hospital performance indicators.
 
----
+📉 Visual analysis of patient demographics and timeliness.
 
-## 📂 Files Included
-- `Hospital Emergency Dashboard.xlsx` – Main Excel dashboard file  
-- `hospital_dashboard.png` – Dashboard snapshot  
-- `README.md` – Documentation  
+🖌️ Clean, professional hospital theme designed using Excel tools.
 
----
+
 ## 🖼️ Dashboard Preview
 
 ![Hospital Emergency Dashboard](hospital%20dashboard.png)
 
 
+🧩 Tools & Technologies Used
+
+Microsoft Excel – Dashboard Design & Analysis
+
+Power Query – Data Cleaning & Transformation
+
+Pivot Tables & Charts – Data Visualization
+
+Slicers & KPIs – Interactive Elements
+
+🏁 Conclusion
+
+This interactive dashboard provides a clear and actionable summary of emergency room operations.
+It highlights:
+✅ The admission vs. non-admission ratio of patients.
+✅ Gender and age-based trends in emergencies.
+✅ The timeliness of patient response within 30 minutes.
+✅ The top referring departments contributing to ER traffic.
+
+Overall, this project demonstrates how Excel dashboards can be used effectively for data-driven hospital management and decision-making.
+
+📧 Contact
+
+Created by: Md Sahanwaj Khan
+Role: Data Analyst | Excel Dashboard Developer
+📩 Email: sahanwajkhanofficial@gmail.com
 
 
 
-## 🚀 How to Use
-1. Download the `.xlsx` file from this repository.  
-2. Open it in **Microsoft Excel (Desktop version)**.  
-3. Go to the **Dashboard** sheet.  
-4. Interact with filters and slicers to explore live insights.  
-
----
-
-## 💡 Learnings
-- Advanced Excel Dashboard Design  
-- KPI & Metric Calculation  
-- Data Visualization and Storytelling  
-- Healthcare Data Analysis  
-
----
-
-## 👨‍💻 Author
-**Sahanwaj Khan**  
-📧 [mskhan6812@gmail.com]  
-💼 Data Analytics | Dashboard Design | Excel | Power BI  
-
----
-
-## 📜 License
-This project is open-source and free to use for educational and learning purposes.
 
 
