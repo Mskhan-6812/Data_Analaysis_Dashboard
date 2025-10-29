@@ -52,7 +52,8 @@ This project provides insights into:
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Dashboard](hospital_dashboard.png)
+![Hospital Emergency Dashboard](hospital_dashboard.png.png)
+
 
 
 ## 🚀 How to Use
