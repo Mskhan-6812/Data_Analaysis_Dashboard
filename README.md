@@ -49,10 +49,10 @@ This project provides insights into:
 - `README.md` – Documentation  
 
 ---
-
 ## 🖼️ Dashboard Preview
 
 ![Hospital Emergency Dashboard](hospital_dashboard.png.png)
+
 
 
 
